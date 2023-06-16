@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 8rem;
+    display: flex;
+    width: 100%;
+    padding: 2rem 0;
+    justify-content: space-between;
+}
+.footer-links{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+}
