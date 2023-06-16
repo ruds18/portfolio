@@ -1,0 +1,22 @@
+
+
+.about-header {
+    display: flex;
+    align-items: center;
+   width: 100%;
+   font-size: 2rem;
+}
+.about-header span{
+    margin-left: 1rem;
+    width: 70%;
+   
+    border-bottom: 2px solid black;
+}
+.about-content{
+    background-color: black;
+    padding: 1rem;
+    color: white;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
